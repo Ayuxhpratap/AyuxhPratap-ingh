@@ -15,7 +15,7 @@ const services = () => {
 
       <div className="container services_container" data-aos="zoom-in"
             data-aos-offset="200"
-            data-aos-delay="350" data-aos-duration="2000">
+            data-aos-delay="350" data-aos-duration="1000">
           <article className="service">
             <div className="service_head">
               <h3>Web Development</h3>
